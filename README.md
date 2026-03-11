@@ -1,2 +1,3 @@
 # project_Air-Quality-Monitoring-Dashboard
 Streamlit-based Air Quality Dashboard that analyzes pollution data and predicts AQI using a Random Forest machine learning model with interactive visualizations.
+Air Quality Monitoring Dashboard built using Streamlit, Pandas, Plotly, and Scikit-learn. The project analyzes environmental pollution data and predicts Air Quality Index (AQI) using a Random Forest Machine Learning model. It includes interactive visualizations for pollutant distribution, correlation analysis, dataset insights, and real-time AQI prediction based on environmental factors such as temperature, humidity, and pollutant levels.
